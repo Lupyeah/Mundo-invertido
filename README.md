@@ -10,14 +10,14 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML, CSS e JavaScript
+- HTML e CSS
 - Git e Github
 
 ## 💻 Projeto
 
 Uma landing page de *Stranger Things*, onde o usuário pode alternar entre os temas.
 
-- [🔗 Acesse o site aqui]
+- [🔗 Acesse o site aqui](https://lupyeah.github.io/Mundo-invertido/)
 
 ## 📋 Funcionalidades
 
